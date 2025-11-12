@@ -5,7 +5,7 @@
 Me chamo Everton Nunes Batista, tenho 20 anos, atualmente residindo e estudando em Recife. Estou cursando Análise e Desenvolvimento de Sistemas no Cesar School (Centro de Estudos e Sistemas Avançados do Recife). Buscando aperfeiçoar na área e contribuir com meus conhecimentos para o mercado de trabalho.
 
 <p align="left">
-    <a href="https://https://github.com/Everton-creator?tab=repositories&sort=stargazers">
+    <a href="https://github.com/Everton-creator?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
@@ -49,7 +49,6 @@ Me chamo Everton Nunes Batista, tenho 20 anos, atualmente residindo e estudando 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Git" 
@@ -69,10 +68,11 @@ Me chamo Everton Nunes Batista, tenho 20 anos, atualmente residindo e estudando 
 
 <br/>
 <br/>
+<br/>
 
 ### 📊 Estatísticas
 
-<p>
+<p align="left">
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -80,17 +80,32 @@ Me chamo Everton Nunes Batista, tenho 20 anos, atualmente residindo e estudando 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Everton-creator&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Everton-creator&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Everton-creator&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+### 📱 Contato
+
 <div> 
-  <a href="https://instagram.com/for_evertoon" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/evertoon-dev-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <a href="https://instagram.com/for_evertoon" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/evertoon-dev-45875016a" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
 </div>
